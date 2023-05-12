@@ -1,5 +1,6 @@
-class PostimagesController < ApplicationController
+class PostImagesController < ApplicationController
   def new
+    
   end
 
   def index
